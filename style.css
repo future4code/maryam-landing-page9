@@ -42,6 +42,7 @@ header{
     align-items: flex-start;
     height: 100px;
     justify-content: space-between;
+    padding-bottom: 57.8vh;
 }
 
 .titulo{
@@ -64,6 +65,10 @@ header{
     margin: 10px;
 
 }
+.botao{
+    height: max-content;
+}
+
 
 main{
     display: flex;
