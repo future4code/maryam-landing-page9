@@ -1,7 +1,7 @@
 # landing-page-template
 ### INSIRA O NOME NOME DO PROJETO AQUI
 Landing Page
-### O que funciona
+### Tarefas delegadas
 Leticia Agante => Header e página de cadastro
 
 Luis Henrique => página produtos/serviços
