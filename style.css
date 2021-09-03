@@ -1,4 +1,20 @@
 *{
+    padding: 0;
+    margin: 0;
+}
+.icone{
+    width: 40px;
+    margin: 10px;
+}
+footer{
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #FE5C5E;
+
+
     margin: 0;
     padding: 0;
 }
@@ -43,4 +59,5 @@ header{
 .link{
     text-decoration: none;
     color: white;
+
 }
