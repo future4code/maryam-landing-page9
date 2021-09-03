@@ -158,4 +158,13 @@ main{
 
 }
 
+@media screen and (min-device-width: 320px) and (max-device-width: 800px) {
+    .carros-servicos {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+}
+
 
