@@ -3,7 +3,9 @@
 Landing Page
 ### O que funciona
 Leticia Agante => Header e página de cadastro
+
 Luis Henrique => página produtos/serviços
+
 Eduardo Henrique => footer e página home
 ### O que não funciona
 Aparenta estar funcionando bem
