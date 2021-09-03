@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.carro{
+    height: 90%;   
+}
+
+.logo{
+    height: 100%;
+}
+
+header{
+    display: flex;
+    background-color: #FE5C5E;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+    padding: 10px;
+}
+
+.cadastro{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.titulo{
+    margin: 5px 0; 
+}
+
+.paginas{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link{
+    text-decoration: none;
+    color: white;
+}
