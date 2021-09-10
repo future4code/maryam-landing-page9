@@ -1,4 +1,4 @@
-# landing-page-template
+# Landing-page-template
 ### INSIRA O NOME NOME DO PROJETO AQUI
 Landing Page
 ### Tarefas delegadas
